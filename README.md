@@ -11,7 +11,10 @@ https://www.youtube.com/watch?v=jTLpqipsw0g</br>
 ### Github - Guia </br>
 https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
 
-#### Javascript</br>
+### Portugol Studio</br>
+http://lite.acad.univali.br/portugol/ </br>
+
+### Javascript</br>
 
 ##### Exercism.io</br>
 https://exercism.io/my/tracks</br>
