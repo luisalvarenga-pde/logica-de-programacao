@@ -1,2 +1,2 @@
-# logica-de-programacao
-Repositório do Curso de Introdução à Lógica de Programação
+# Lógica de Programação e Algoritmos
+Repositório do Curso de Introdução à Lógica de Programação e Algoritmos
