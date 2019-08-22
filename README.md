@@ -5,18 +5,18 @@ Repositório do Curso de Introdução à Lógica de Programação e Algoritmos d
 ## Recursos
 
 <p>
-####Quarta Revolução Industrial </br>
+### Quarta Revolução Industrial </br>
 https://www.youtube.com/watch?v=jTLpqipsw0g</br>
 
-####Github - Guia </br>
+### Github - Guia </br>
 https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
 
-####Javascript</br>
+#### Javascript</br>
 
-#####Exercism.io</br>
+##### Exercism.io</br>
 https://exercism.io/my/tracks</br>
 
-#####Hackerrank</br>
+##### Hackerrank</br>
 https://www.hackerrank.com/</br>
 
 <p/>
