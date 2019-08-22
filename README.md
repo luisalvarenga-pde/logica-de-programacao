@@ -8,10 +8,6 @@ Repositório do Curso de Introdução à Lógica de Programação e Algoritmos d
 Quarta Revolução Industrial </br>
 https://www.youtube.com/watch?v=jTLpqipsw0g</br>
 
-Github </br>
-https://github.com/ </br>
+Github - Guia </br>
 https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
-
-GitHub – Repositório do Curso </br>
-https://github.com/luisalvarenga-pde/ </br>
 <p/>
