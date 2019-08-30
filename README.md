@@ -11,10 +11,16 @@ https://www.youtube.com/watch?v=jTLpqipsw0g</br>
 ### Github - Guia </br>
 https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
 
-### Portugol Studio</br>
+### Portugol Studio </br>
 http://lite.acad.univali.br/portugol/ </br>
 
+### O maior site de desenvolvimento WEB do mundo </br>
+https://www.w3schools.com/ </br>
+
 ### Javascript</br>
+
+##### Tutorial de JavaScript da W3Schools
+https://www.w3schools.com/js/default.asp
 
 ##### Exercism.io</br>
 https://exercism.io/my/tracks</br>
