@@ -14,7 +14,7 @@ https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
 ### Portugol Studio </br>
 http://lite.acad.univali.br/portugol/ </br>
 
-### O maior site de desenvolvimento WEB do mundo </br>
+### W3Schools - O maior site de desenvolvimento WEB do mundo </br>
 https://www.w3schools.com/ </br>
 
 ### Javascript</br>
