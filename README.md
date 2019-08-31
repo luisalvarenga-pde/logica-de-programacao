@@ -5,6 +5,7 @@ Repositório do Curso de Introdução à Lógica de Programação e Algoritmos d
 ## Recursos
 
 <p>
+
 ### Quarta Revolução Industrial </br>
 https://www.youtube.com/watch?v=jTLpqipsw0g</br>
 
