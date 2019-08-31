@@ -8,6 +8,9 @@ Repositório do Curso de Introdução à Lógica de Programação e Algoritmos d
 ### Quarta Revolução Industrial </br>
 https://www.youtube.com/watch?v=jTLpqipsw0g</br>
 
+### Como aprender qualquer coisa - Técnica Feynman (5 Passos) </br>
+https://youtu.be/TVHUs67kwRk</br>
+
 ### Github - Guia </br>
 https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
 
