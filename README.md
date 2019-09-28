@@ -21,7 +21,10 @@ http://lite.acad.univali.br/portugol/ </br>
 ### W3Schools - O maior site de desenvolvimento WEB do mundo </br>
 https://www.w3schools.com/ </br>
 
-### Javascript</br>
+### JavaScript</br>
+
+##### Mozilla Developer Network - MDN Web Docs - JavaScript
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 ##### Tutorial de JavaScript da W3Schools
 https://www.w3schools.com/js/default.asp
